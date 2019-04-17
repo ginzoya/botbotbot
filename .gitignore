@@ -1,0 +1,4 @@
+__pycache__
+
+# Where sensitive info is stored
+.sensitive
